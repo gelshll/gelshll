@@ -20,7 +20,7 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" alt="Git Badge">
 <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js Badge"> <img src="https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat" alt=".ENV Badge">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="Visual Studio Code Badge"><img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="Visual Studio Code Badge"><img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"> <img src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff&style=flat" alt="Replit Badge">
 
 ### _**Frameworks and Libraries 📚**_
 
