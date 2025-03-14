@@ -12,28 +12,20 @@
 
 ### _**Programming Languages 💻**_
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" alt="TypeScript Badge"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge">
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5 Badge"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3 Badge">
-<img src="https://img.shields.io/badge/Octave/Matlab-blue?logo=octave&logoColor=fff&style=flat-square" alt="Octave Badge">
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,dart,html,css,octave" alt="Langs Badges">
 
 ### _**Tools & Software 🛠️🔮**_
 
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" alt="Git Badge">
-<img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js Badge"> <img src="https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat" alt=".ENV Badge">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="Visual Studio Code Badge"><img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"> <img src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff&style=flat" alt="Replit Badge">
+<img src="https://skillicons.dev/icons?i=git,nodejs,vscode,sublime,pycharm,replit">
 
 ### _**Frameworks and Libraries 📚**_
 
-<img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=flat" alt="Angular JS Badge">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=boostrap&logoColor=fff&style=flat" alt="Boostrap CSS Badge">
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat" alt="Django Python Badge">
-<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff&style=flat" alt="Flask Python Badge">
+<img src="https://skillicons.dev/icons?i=angular,bootstrap,django,flask" alt="Frameworks Badges">
 
 ### _**Databases ☁️**_
 
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat" alt="PostgreSQL Badge">
-<img src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=fff&style=flat" alt="Firebase Badge">
+<img src="https://skillicons.dev/icons?i=postgresql,firebase" alt="Databases Badges">
 
 
 ### _**OS 🛡️**_
