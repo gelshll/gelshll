@@ -12,11 +12,19 @@
 
 ### _**Programming Languages 💻**_
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,dart,html,css,octave" alt="Langs Badges">
+<table>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,python,dart,html,css,octave" alt="Langs Badges">
+  </td>
+</table>
 
 ### _**Tools & Software 🛠️🔮**_
 
-<img src="https://skillicons.dev/icons?i=git,nodejs,vscode,sublime,pycharm,replit">
+<table>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=git,nodejs,vscode,sublime,pycharm,replit">
+  </td>
+</table>
 
 ### _**Frameworks and Libraries 📚**_
 
@@ -24,13 +32,20 @@
 
 ### _**Databases ☁️**_
 
-
-<img src="https://skillicons.dev/icons?i=postgresql,firebase" alt="Databases Badges">
-
+<table>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=postgresql,firebase" alt="Databases Badges">
+  </td>
+</table>
 
 ### _**OS 🛡️**_
-<img src="https://img.shields.io/badge/MacOS--9cf?logo=macos&logoColor=fff&style=flat" alt="MacOs Badge"> <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?logo=kalilinux&logoColor=fff&style=flat" alt="Kali Linux Badge">
 
+<table>
+  <td align="center">
+    <img src="https://img.shields.io/badge/MacOS--9cf?logo=macos&logoColor=fff&style=flat-square" alt="MacOs Badge">
+    <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?logo=kalilinux&logoColor=fff&style=flat-square" alt="Kali Linux Badge">
+  </td>
+</table>
 
 ### _L <$_
 
