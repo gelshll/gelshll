@@ -28,7 +28,11 @@
 
 ### _**Frameworks and Libraries 📚**_
 
-<img src="https://skillicons.dev/icons?i=angular,bootstrap,django,flask" alt="Frameworks Badges">
+<table>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,django,flask" alt="Frameworks Badges">
+  </td>
+</table>
 
 ### _**Databases ☁️**_
 
