@@ -1,5 +1,5 @@
 
->## Welcome to my Github Profile, im Engel 🌴☕
+>## Welcome to my Github Profile, I'm Engel 🌴☕
 
 >[!NOTE]
 ><h4>Hi everyone! I'm Engel and I am 19 years old from Mexico, currently studying at the University, where I’m studying Electronic's engineer. <br> I started programming at 15 with Python 🐍, and it’s been an exciting journey ever since!</h4> <h4> My native language is Spanish 🇲🇽, and I have a B1 level in English 🇺🇸, which lets me connect with diverse communities and resources as I keep learning and growing.</h4>
