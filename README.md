@@ -19,7 +19,7 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" alt="Git Badge">
 <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" alt="Node.js Badge"> <img src="https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat" alt=".ENV Badge">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="Visual Studio Code Badge">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" alt="Visual Studio Code Badge"><img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge">
 
 ### _**Frameworks and Libraries 📚**_
 
@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/MacOS--9cf?logo=macos&logoColor=fff&style=flat" alt="MacOs Badge"> <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?logo=kalilinux&logoColor=fff&style=flat" alt="Kali Linux Badge">
 
 
-### _Love and peace for XXI century <3_
+### _L <$_
 
 </div>
 
