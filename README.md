@@ -1,10 +1,9 @@
-
->## Welcome to my Github Profile, I'm Engel 🌴☕
+>## Welcome to my Github Profile, I'm Engel 🌴🍞
 
 >[!NOTE]
 ><h4>Hi everyone! I'm Engel and I am 19 years old from Mexico, currently studying at the University, where I’m studying Electronic's engineering. <br> I started programming at 15 with Python 🐍, and it’s been an exciting journey ever since!</h4> <h4> My native language is Spanish 🇲🇽, and I have a B1 level in English 🇺🇸, which lets me connect with diverse communities and resources as I keep learning and growing.</h4>
 
-><h4>I’m a big fan of chess ♟️, maths 🧠, black hat hacking 🗡, gym 🏋🏻, tkd 🥋, poetry 🍂, programming 💻 and, of course, my lovely cat Tom 🐈! I’m also passionate about the open-source community and the value of freedom of speech. <br> You can reach me at <a href="mailto:notfumo@pm.me">notfumo@pm.me</a> 🗃️.</h4>
+><h4>I’m a big fan of chess ♟️, black hat hacking 🗡, gym 🏋🏻, tkd 🥋, poetry 🍂, programming 💻 and, of course, my lovely cat Tom 🐈! I’m also passionate about the open-source community and the value of freedom of speech. <br> You can reach me at <a href="mailto:notfumo@pm.me">notfumo@pm.me</a> 🗃️.</h4>
 <div align="center">
 <br>
 
