@@ -3,8 +3,6 @@
 >[!NOTE]
 ><h4>Hi everyone! I'm Engel and I am 19 years old from Mexico, currently studying at the University, where I’m studying Electronic's engineering. <br> I started programming at 15 with Python 🐍, and it’s been an exciting journey ever since!</h4> <h4> My native language is Spanish 🇲🇽, and I have a B1 level in English 🇺🇸, which lets me connect with diverse communities and resources as I keep learning and growing.</h4>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zlphe55f73sjokfs22oe3r14l&cover_image=true&theme=novatorem&show_offline=false&background_color=f5f5f5&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://buymeacoffee.com/gelshll)
-
 ><h4>I’m a big fan of chess ♟️, black hat hacking 🗡, gym 🏋🏻, tkd 🥋, poetry 🍂, programming 💻 and, of course, my lovely cat Tom 🐈! I’m also passionate about the open-source community and the value of freedom of speech. <br> You can reach me at <a href="mailto:notfumo@pm.me">notfumo@pm.me</a> 🗃️.</h4>
 <div align="center">
 <br>
